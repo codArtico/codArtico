@@ -1,4 +1,6 @@
+<div align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CA39F7&center=true&vCenter=true&width=435&lines=%3C+Seja+bem+vindo+ao+meu+GitHub+%2F%3E)](https://git.io/typing-svg)
+</div>
 
 ## 📚 Bacharelando em Ciência da Computação na Universidade Estadual da Paraíba (UEPB)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codArtico&theme=synthwave&show_icons=true)
