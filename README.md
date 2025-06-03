@@ -10,7 +10,9 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=codArtico&theme=synthwave&show_icons=true" alt="GitHub Stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codArtico&layout=compact" alt="Top Langs"/>
+
 </div>
+
 ---
 
 - 🌱 Em aprendizado constante  
